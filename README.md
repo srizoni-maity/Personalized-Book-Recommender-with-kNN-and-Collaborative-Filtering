@@ -27,3 +27,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/srizoni-maity/book-recommender.git
 cd book-recommender
+
+# Create a virtual environment (recommended):
+python -m venv venv
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+
+
+# Install dependencies:
+pip install -r requirements.txt
