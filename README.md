@@ -36,3 +36,24 @@ venv\Scripts\activate      # Windows
 
 # Install dependencies:
 pip install -r requirements.txt
+
+▶️ Usage
+Obtain a Kaggle API token (kaggle.json) from Kaggle
+Place the token in the notebook when prompted.
+Run the notebook Untitled40.ipynb step by step to build and test the recommender system.
+
+
+📊 Results / Outputs
+Book popularity analysis
+Rating distribution plots
+Top-N recommended books for a given input
+
+
+📌 Requirements
+Python 3.8+
+Kaggle API
+Libraries listed in requirements.txt
+
+
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
